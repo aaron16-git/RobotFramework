@@ -1,18 +1,9 @@
 ***Settings***
 Library SeleniumLibrary
 
-
 ***Test Cases***
 TestCase1
   Opening ChromeBrowser
-
-
-
-
-
-
-
-
 
 
 ***Keywords***
