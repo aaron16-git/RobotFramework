@@ -4,7 +4,8 @@ Library SeleniumLibrary
 ***Test Cases***
 TestCase1
   Opening ChromeBrowser
-
+TestCase2
+  Opening ChromeBrowser
 
 ***Keywords***
 Opening ChromeBrowser
